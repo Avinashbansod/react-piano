@@ -1,0 +1,49 @@
+.csharp{
+   display: inline-block;
+   position: absolute;
+   left: 675px;
+   width: 20px;
+   height: 70px;
+   background-color: black;
+   z-index: 1;
+}
+
+.dsharp{
+   display: inline-block;
+   position: absolute;
+   left: 705px;
+   width: 20px;
+   height: 70px;
+   background-color: black;
+   z-index: 1;
+}
+
+.fsharp{
+   display: inline-block;
+   position: absolute;
+   left: 765px;
+   width: 20px;
+   height: 70px;
+   background-color: black;
+   z-index: 1;
+}
+
+.gsharp{
+   display: inline-block;
+   position: absolute;
+   left: 795px;
+   width: 20px;
+   height: 70px;
+   background-color: black;
+   z-index: 1;
+}
+
+.asharp{
+   display: inline-block;
+   position: absolute;
+   left: 825px;
+   width: 20px;
+   height: 70px;
+   background-color: black;
+   z-index: 1;
+}
